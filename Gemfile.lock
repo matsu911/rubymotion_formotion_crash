@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bubble-wrap (1.3.0)
+    formotion (1.5.1)
+      bubble-wrap (~> 1.3.0)
+      motion-require (~> 0.0.3)
+    motion-require (0.0.7)
+    rake (10.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  formotion
+  rake
